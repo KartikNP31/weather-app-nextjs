@@ -1,4 +1,5 @@
 # Flowork AI - Weather App assignment
+> - Deploed Weather App Link : [https://weather-app-nextjs-mauve.vercel.app/](https://weather-app-nextjs-mauve.vercel.app/)
 
 ## Installation and Run Application
 Please follow the below steps to run the application.
